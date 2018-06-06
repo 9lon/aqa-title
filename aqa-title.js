@@ -1,5 +1,5 @@
 import { PolymerElement } from '@polymer/polymer/polymer-element.js';
-import '@nylon/aqa-font/aqa-mitr-font.js';
+import '@9lon/aqa-font/aqa-mitr-font.js';
 import { html } from '@polymer/polymer/lib/utils/html-tag.js';
 class AqaTitle extends PolymerElement {
   static get template() {
